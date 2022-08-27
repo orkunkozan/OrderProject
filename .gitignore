@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AktifBank.CustomerOrder.Business/bin/Debug/net6.0
+/AktifBank.CustomerOrder.Api/obj
+/AktifBank.CustomerOrder.Business/obj
+/AktifBank.CustomerOrder.Business.Shared/obj
+/AktifBank.CustomerOrder.DataAccess/bin/Debug/net6.0
+/AktifBank.CustomerOrder.DataAccess/obj
+/AktifBank.CustomerOrder.Shared/bin/Debug/net6.0
+/AktifBank.CustomerOrder.Shared/obj
+/AktifBank.Test/obj
+/.vs/AktifBankCustomerOrder
+/AktifBank.CustomerOrder.Api/bin/Debug/net6.0
